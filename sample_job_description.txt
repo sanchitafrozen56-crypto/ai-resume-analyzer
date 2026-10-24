@@ -1,0 +1,1 @@
+Python developer internship: build data tools with Python, SQL, pandas and scikit-learn. Experience with Git, Docker, REST APIs and clear communication is valued. Candidates should demonstrate problem solving through projects.
